@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Camila Rojas",
+    "email": "camila.rojas@correo.com",
+    "bootcamp": "Full Stack JavaScript"
+  },
+  {
+    "id": 2,
+    "nombre": "Mateo Villalba",
+    "email": "mateo.villalba@correo.com",
+    "bootcamp": "Data Science"
+  },
+  {
+    "id": 3,
+    "nombre": "Lucia Ferreira",
+    "email": "lucia.ferreira@correo.com",
+    "bootcamp": "Full Stack JavaScript"
+  },
+  {
+    "id": 4,
+    "nombre": "Adrian Alva",
+    "email": "adrian.alva@correo.com",
+    "bootcamp": "Full Stack Developer"
+  },
+  {
+    "id": 5,
+    "nombre": "Sofia Mendoza",
+    "email": "sofia.mendoza@correo.com",
+    "bootcamp": "Ciberseguridad"
+  }
+]
